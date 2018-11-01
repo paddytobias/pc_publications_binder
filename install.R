@@ -2,7 +2,10 @@
 #library(tm)
 #library(gganimate)
 #library(googlesheets)
-install.packages("tidyverse")
+
+install.packages("tidyr")
+install.packages("ggplot2")
+install.packages("dplyr")
 install.packages("plotly")
 #library(tidyverse, quietly = T)
 #suppressPackageStartupMessages(library(dplyr))
