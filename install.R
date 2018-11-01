@@ -3,9 +3,9 @@
 #library(gganimate)
 #library(googlesheets)
 
-install.packages("tidyr")
-install.packages("ggplot2")
-install.packages("dplyr")
+#install.packages("tidyr")
+#install.packages("ggplot2")
+#install.packages("dplyr")
 install.packages("plotly")
 #library(tidyverse, quietly = T)
 #suppressPackageStartupMessages(library(dplyr))
