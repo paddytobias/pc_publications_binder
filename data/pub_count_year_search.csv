@@ -1,0 +1,349 @@
+year,search_name,n,cats,stages
+1896,peacemaking,1,peace-oriented,medium-term
+1910,conflict prevention,1,conflict-oriented,short-term
+1936,conflict transformation,1,conflict-oriented,long-term
+1937,peacemaking,2,peace-oriented,medium-term
+1938,conflict transformation,1,conflict-oriented,long-term
+1939,conflict prevention,1,conflict-oriented,short-term
+1939,conflict resolution,1,conflict-oriented,medium-term
+1939,peacebuilding,1,peace-oriented,long-term
+1940,conflict prevention,1,conflict-oriented,short-term
+1940,peacemaking,2,peace-oriented,medium-term
+1941,conflict prevention,1,conflict-oriented,short-term
+1941,peacemaking,1,peace-oriented,medium-term
+1942,conflict prevention,1,conflict-oriented,short-term
+1942,peacekeeping,1,peace-oriented,short-term
+1942,peacemaking,1,peace-oriented,medium-term
+1943,conflict prevention,1,conflict-oriented,short-term
+1943,conflict resolution,1,conflict-oriented,medium-term
+1943,peacekeeping,1,peace-oriented,short-term
+1943,peacemaking,1,peace-oriented,medium-term
+1944,conflict resolution,1,conflict-oriented,medium-term
+1944,peacekeeping,1,peace-oriented,short-term
+1944,peacemaking,1,peace-oriented,medium-term
+1945,conflict prevention,1,conflict-oriented,short-term
+1946,conflict prevention,1,conflict-oriented,short-term
+1948,conflict prevention,1,conflict-oriented,short-term
+1948,conflict resolution,1,conflict-oriented,medium-term
+1948,conflict transformation,1,conflict-oriented,long-term
+1948,peacemaking,1,peace-oriented,medium-term
+1949,conflict transformation,1,conflict-oriented,long-term
+1950,peacemaking,2,peace-oriented,medium-term
+1951,conflict prevention,1,conflict-oriented,short-term
+1951,conflict transformation,1,conflict-oriented,long-term
+1952,conflict resolution,1,conflict-oriented,medium-term
+1952,peacemaking,5,peace-oriented,medium-term
+1953,conflict prevention,3,conflict-oriented,short-term
+1953,peacemaking,1,peace-oriented,medium-term
+1954,conflict prevention,1,conflict-oriented,short-term
+1954,conflict transformation,1,conflict-oriented,long-term
+1956,peacemaking,2,peace-oriented,medium-term
+1957,conflict resolution,1,conflict-oriented,medium-term
+1957,conflict transformation,1,conflict-oriented,long-term
+1958,conflict prevention,1,conflict-oriented,short-term
+1958,conflict resolution,1,conflict-oriented,medium-term
+1958,peacemaking,5,peace-oriented,medium-term
+1960,conflict prevention,1,conflict-oriented,short-term
+1960,conflict transformation,1,conflict-oriented,long-term
+1961,conflict resolution,2,conflict-oriented,medium-term
+1961,conflict transformation,1,conflict-oriented,long-term
+1962,conflict transformation,1,conflict-oriented,long-term
+1963,conflict prevention,2,conflict-oriented,short-term
+1963,conflict resolution,3,conflict-oriented,medium-term
+1963,conflict transformation,2,conflict-oriented,long-term
+1963,peacekeeping,1,peace-oriented,short-term
+1963,peacemaking,4,peace-oriented,medium-term
+1964,conflict prevention,4,conflict-oriented,short-term
+1964,conflict resolution,1,conflict-oriented,medium-term
+1964,conflict transformation,2,conflict-oriented,long-term
+1964,peacekeeping,4,peace-oriented,short-term
+1965,conflict prevention,2,conflict-oriented,short-term
+1965,conflict resolution,1,conflict-oriented,medium-term
+1965,conflict transformation,1,conflict-oriented,long-term
+1965,peacekeeping,7,peace-oriented,short-term
+1965,peacemaking,1,peace-oriented,medium-term
+1966,conflict prevention,4,conflict-oriented,short-term
+1966,conflict resolution,1,conflict-oriented,medium-term
+1966,peacebuilding,1,peace-oriented,long-term
+1966,peacekeeping,11,peace-oriented,short-term
+1966,peacemaking,1,peace-oriented,medium-term
+1967,conflict prevention,2,conflict-oriented,short-term
+1967,conflict transformation,1,conflict-oriented,long-term
+1967,peacekeeping,2,peace-oriented,short-term
+1967,peacemaking,3,peace-oriented,medium-term
+1968,conflict prevention,3,conflict-oriented,short-term
+1968,conflict resolution,3,conflict-oriented,medium-term
+1968,conflict transformation,5,conflict-oriented,long-term
+1968,peacekeeping,1,peace-oriented,short-term
+1968,peacemaking,2,peace-oriented,medium-term
+1969,conflict prevention,3,conflict-oriented,short-term
+1969,conflict resolution,1,conflict-oriented,medium-term
+1969,peacekeeping,1,peace-oriented,short-term
+1969,peacemaking,1,peace-oriented,medium-term
+1970,conflict prevention,2,conflict-oriented,short-term
+1970,conflict resolution,1,conflict-oriented,medium-term
+1970,peacekeeping,2,peace-oriented,short-term
+1970,peacemaking,3,peace-oriented,medium-term
+1971,conflict prevention,5,conflict-oriented,short-term
+1971,conflict resolution,3,conflict-oriented,medium-term
+1971,conflict transformation,3,conflict-oriented,long-term
+1971,peacekeeping,1,peace-oriented,short-term
+1971,peacemaking,1,peace-oriented,medium-term
+1972,conflict prevention,4,conflict-oriented,short-term
+1972,conflict resolution,8,conflict-oriented,medium-term
+1972,conflict transformation,6,conflict-oriented,long-term
+1972,peacekeeping,1,peace-oriented,short-term
+1972,peacemaking,3,peace-oriented,medium-term
+1973,conflict prevention,7,conflict-oriented,short-term
+1973,conflict resolution,11,conflict-oriented,medium-term
+1973,conflict transformation,6,conflict-oriented,long-term
+1973,peacemaking,12,peace-oriented,medium-term
+1974,conflict prevention,2,conflict-oriented,short-term
+1974,conflict resolution,7,conflict-oriented,medium-term
+1974,conflict transformation,4,conflict-oriented,long-term
+1974,peacekeeping,4,peace-oriented,short-term
+1974,peacemaking,1,peace-oriented,medium-term
+1975,conflict prevention,3,conflict-oriented,short-term
+1975,conflict resolution,5,conflict-oriented,medium-term
+1975,conflict transformation,7,conflict-oriented,long-term
+1975,peacekeeping,3,peace-oriented,short-term
+1975,peacemaking,1,peace-oriented,medium-term
+1976,conflict prevention,6,conflict-oriented,short-term
+1976,conflict resolution,9,conflict-oriented,medium-term
+1976,conflict transformation,4,conflict-oriented,long-term
+1976,peacekeeping,1,peace-oriented,short-term
+1976,peacemaking,4,peace-oriented,medium-term
+1977,conflict resolution,6,conflict-oriented,medium-term
+1977,conflict transformation,2,conflict-oriented,long-term
+1977,peacekeeping,1,peace-oriented,short-term
+1977,peacemaking,6,peace-oriented,medium-term
+1978,conflict prevention,5,conflict-oriented,short-term
+1978,conflict resolution,7,conflict-oriented,medium-term
+1978,conflict transformation,4,conflict-oriented,long-term
+1978,peacemaking,4,peace-oriented,medium-term
+1979,conflict prevention,8,conflict-oriented,short-term
+1979,conflict resolution,4,conflict-oriented,medium-term
+1979,conflict transformation,3,conflict-oriented,long-term
+1979,peacekeeping,1,peace-oriented,short-term
+1979,peacemaking,2,peace-oriented,medium-term
+1980,conflict prevention,7,conflict-oriented,short-term
+1980,conflict resolution,10,conflict-oriented,medium-term
+1980,conflict transformation,8,conflict-oriented,long-term
+1980,peacebuilding,1,peace-oriented,long-term
+1980,peacekeeping,2,peace-oriented,short-term
+1980,peacemaking,3,peace-oriented,medium-term
+1981,conflict prevention,5,conflict-oriented,short-term
+1981,conflict resolution,5,conflict-oriented,medium-term
+1981,conflict transformation,10,conflict-oriented,long-term
+1981,peacemaking,2,peace-oriented,medium-term
+1982,conflict prevention,5,conflict-oriented,short-term
+1982,conflict resolution,6,conflict-oriented,medium-term
+1982,conflict transformation,1,conflict-oriented,long-term
+1982,peacekeeping,1,peace-oriented,short-term
+1982,peacemaking,3,peace-oriented,medium-term
+1983,conflict prevention,4,conflict-oriented,short-term
+1983,conflict resolution,6,conflict-oriented,medium-term
+1983,conflict transformation,11,conflict-oriented,long-term
+1983,peacemaking,8,peace-oriented,medium-term
+1984,conflict prevention,3,conflict-oriented,short-term
+1984,conflict resolution,4,conflict-oriented,medium-term
+1984,conflict transformation,9,conflict-oriented,long-term
+1984,peacemaking,10,peace-oriented,medium-term
+1985,conflict prevention,6,conflict-oriented,short-term
+1985,conflict resolution,5,conflict-oriented,medium-term
+1985,conflict transformation,2,conflict-oriented,long-term
+1985,peacebuilding,1,peace-oriented,long-term
+1985,peacekeeping,5,peace-oriented,short-term
+1985,peacemaking,14,peace-oriented,medium-term
+1986,conflict prevention,4,conflict-oriented,short-term
+1986,conflict resolution,8,conflict-oriented,medium-term
+1986,conflict transformation,6,conflict-oriented,long-term
+1986,peacekeeping,2,peace-oriented,short-term
+1986,peacemaking,9,peace-oriented,medium-term
+1987,conflict prevention,5,conflict-oriented,short-term
+1987,conflict resolution,7,conflict-oriented,medium-term
+1987,conflict transformation,5,conflict-oriented,long-term
+1987,peacekeeping,2,peace-oriented,short-term
+1987,peacemaking,3,peace-oriented,medium-term
+1988,conflict prevention,7,conflict-oriented,short-term
+1988,conflict resolution,9,conflict-oriented,medium-term
+1988,conflict transformation,8,conflict-oriented,long-term
+1988,peacekeeping,6,peace-oriented,short-term
+1988,peacemaking,14,peace-oriented,medium-term
+1989,conflict prevention,3,conflict-oriented,short-term
+1989,conflict resolution,7,conflict-oriented,medium-term
+1989,conflict transformation,5,conflict-oriented,long-term
+1989,peacekeeping,3,peace-oriented,short-term
+1989,peacemaking,12,peace-oriented,medium-term
+1990,conflict prevention,7,conflict-oriented,short-term
+1990,conflict resolution,16,conflict-oriented,medium-term
+1990,conflict transformation,5,conflict-oriented,long-term
+1990,peacekeeping,3,peace-oriented,short-term
+1990,peacemaking,8,peace-oriented,medium-term
+1991,conflict prevention,4,conflict-oriented,short-term
+1991,conflict resolution,11,conflict-oriented,medium-term
+1991,conflict transformation,9,conflict-oriented,long-term
+1991,peacebuilding,1,peace-oriented,long-term
+1991,peacekeeping,2,peace-oriented,short-term
+1991,peacemaking,16,peace-oriented,medium-term
+1992,conflict prevention,11,conflict-oriented,short-term
+1992,conflict resolution,7,conflict-oriented,medium-term
+1992,conflict transformation,14,conflict-oriented,long-term
+1992,peacekeeping,14,peace-oriented,short-term
+1992,peacemaking,23,peace-oriented,medium-term
+1993,conflict prevention,10,conflict-oriented,short-term
+1993,conflict resolution,14,conflict-oriented,medium-term
+1993,conflict transformation,11,conflict-oriented,long-term
+1993,peacebuilding,1,peace-oriented,long-term
+1993,peacekeeping,18,peace-oriented,short-term
+1993,peacemaking,15,peace-oriented,medium-term
+1994,conflict prevention,10,conflict-oriented,short-term
+1994,conflict resolution,15,conflict-oriented,medium-term
+1994,conflict transformation,13,conflict-oriented,long-term
+1994,peacebuilding,1,peace-oriented,long-term
+1994,peacekeeping,26,peace-oriented,short-term
+1994,peacemaking,23,peace-oriented,medium-term
+1995,conflict prevention,12,conflict-oriented,short-term
+1995,conflict resolution,13,conflict-oriented,medium-term
+1995,conflict transformation,15,conflict-oriented,long-term
+1995,peacebuilding,9,peace-oriented,long-term
+1995,peacekeeping,47,peace-oriented,short-term
+1995,peacemaking,26,peace-oriented,medium-term
+1996,conflict prevention,9,conflict-oriented,short-term
+1996,conflict resolution,16,conflict-oriented,medium-term
+1996,conflict transformation,23,conflict-oriented,long-term
+1996,peacebuilding,21,peace-oriented,long-term
+1996,peacekeeping,36,peace-oriented,short-term
+1996,peacemaking,23,peace-oriented,medium-term
+1997,conflict prevention,15,conflict-oriented,short-term
+1997,conflict resolution,13,conflict-oriented,medium-term
+1997,conflict transformation,19,conflict-oriented,long-term
+1997,peacebuilding,25,peace-oriented,long-term
+1997,peacekeeping,31,peace-oriented,short-term
+1997,peacemaking,20,peace-oriented,medium-term
+1998,conflict prevention,17,conflict-oriented,short-term
+1998,conflict resolution,16,conflict-oriented,medium-term
+1998,conflict transformation,16,conflict-oriented,long-term
+1998,peacebuilding,26,peace-oriented,long-term
+1998,peacekeeping,48,peace-oriented,short-term
+1998,peacemaking,51,peace-oriented,medium-term
+1999,conflict prevention,12,conflict-oriented,short-term
+1999,conflict resolution,16,conflict-oriented,medium-term
+1999,conflict transformation,19,conflict-oriented,long-term
+1999,peacebuilding,19,peace-oriented,long-term
+1999,peacekeeping,41,peace-oriented,short-term
+1999,peacemaking,18,peace-oriented,medium-term
+2000,conflict prevention,17,conflict-oriented,short-term
+2000,conflict resolution,18,conflict-oriented,medium-term
+2000,conflict transformation,17,conflict-oriented,long-term
+2000,peacebuilding,29,peace-oriented,long-term
+2000,peacekeeping,40,peace-oriented,short-term
+2000,peacemaking,34,peace-oriented,medium-term
+2001,conflict prevention,14,conflict-oriented,short-term
+2001,conflict resolution,16,conflict-oriented,medium-term
+2001,conflict transformation,19,conflict-oriented,long-term
+2001,peacebuilding,12,peace-oriented,long-term
+2001,peacekeeping,22,peace-oriented,short-term
+2001,peacemaking,22,peace-oriented,medium-term
+2002,conflict prevention,17,conflict-oriented,short-term
+2002,conflict resolution,22,conflict-oriented,medium-term
+2002,conflict transformation,17,conflict-oriented,long-term
+2002,peacebuilding,27,peace-oriented,long-term
+2002,peacekeeping,23,peace-oriented,short-term
+2002,peacemaking,19,peace-oriented,medium-term
+2003,conflict prevention,18,conflict-oriented,short-term
+2003,conflict resolution,21,conflict-oriented,medium-term
+2003,conflict transformation,19,conflict-oriented,long-term
+2003,peacebuilding,22,peace-oriented,long-term
+2003,peacekeeping,22,peace-oriented,short-term
+2003,peacemaking,23,peace-oriented,medium-term
+2004,conflict prevention,21,conflict-oriented,short-term
+2004,conflict resolution,27,conflict-oriented,medium-term
+2004,conflict transformation,36,conflict-oriented,long-term
+2004,peacebuilding,43,peace-oriented,long-term
+2004,peacekeeping,39,peace-oriented,short-term
+2004,peacemaking,35,peace-oriented,medium-term
+2005,conflict prevention,31,conflict-oriented,short-term
+2005,conflict resolution,27,conflict-oriented,medium-term
+2005,conflict transformation,35,conflict-oriented,long-term
+2005,peacebuilding,25,peace-oriented,long-term
+2005,peacekeeping,22,peace-oriented,short-term
+2005,peacemaking,23,peace-oriented,medium-term
+2006,conflict prevention,24,conflict-oriented,short-term
+2006,conflict resolution,25,conflict-oriented,medium-term
+2006,conflict transformation,31,conflict-oriented,long-term
+2006,peacebuilding,36,peace-oriented,long-term
+2006,peacekeeping,15,peace-oriented,short-term
+2006,peacemaking,29,peace-oriented,medium-term
+2007,conflict prevention,22,conflict-oriented,short-term
+2007,conflict resolution,30,conflict-oriented,medium-term
+2007,conflict transformation,26,conflict-oriented,long-term
+2007,peacebuilding,38,peace-oriented,long-term
+2007,peacekeeping,20,peace-oriented,short-term
+2007,peacemaking,32,peace-oriented,medium-term
+2008,conflict prevention,15,conflict-oriented,short-term
+2008,conflict resolution,24,conflict-oriented,medium-term
+2008,conflict transformation,35,conflict-oriented,long-term
+2008,peacebuilding,39,peace-oriented,long-term
+2008,peacekeeping,20,peace-oriented,short-term
+2008,peacemaking,33,peace-oriented,medium-term
+2009,conflict prevention,25,conflict-oriented,short-term
+2009,conflict resolution,32,conflict-oriented,medium-term
+2009,conflict transformation,28,conflict-oriented,long-term
+2009,peacebuilding,32,peace-oriented,long-term
+2009,peacekeeping,24,peace-oriented,short-term
+2009,peacemaking,44,peace-oriented,medium-term
+2010,conflict prevention,151,conflict-oriented,short-term
+2010,conflict resolution,149,conflict-oriented,medium-term
+2010,conflict transformation,126,conflict-oriented,long-term
+2010,peacebuilding,146,peace-oriented,long-term
+2010,peacekeeping,103,peace-oriented,short-term
+2010,peacemaking,132,peace-oriented,medium-term
+2011,conflict prevention,221,conflict-oriented,short-term
+2011,conflict resolution,230,conflict-oriented,medium-term
+2011,conflict transformation,243,conflict-oriented,long-term
+2011,peacebuilding,246,peace-oriented,long-term
+2011,peacekeeping,186,peace-oriented,short-term
+2011,peacemaking,160,peace-oriented,medium-term
+2012,conflict prevention,253,conflict-oriented,short-term
+2012,conflict resolution,253,conflict-oriented,medium-term
+2012,conflict transformation,232,conflict-oriented,long-term
+2012,peacebuilding,254,peace-oriented,long-term
+2012,peacekeeping,201,peace-oriented,short-term
+2012,peacemaking,165,peace-oriented,medium-term
+2013,conflict prevention,256,conflict-oriented,short-term
+2013,conflict resolution,228,conflict-oriented,medium-term
+2013,conflict transformation,270,conflict-oriented,long-term
+2013,peacebuilding,364,peace-oriented,long-term
+2013,peacekeeping,132,peace-oriented,short-term
+2013,peacemaking,175,peace-oriented,medium-term
+2014,conflict prevention,272,conflict-oriented,short-term
+2014,conflict resolution,221,conflict-oriented,medium-term
+2014,conflict transformation,265,conflict-oriented,long-term
+2014,peacebuilding,357,peace-oriented,long-term
+2014,peacekeeping,190,peace-oriented,short-term
+2014,peacemaking,158,peace-oriented,medium-term
+2015,conflict prevention,263,conflict-oriented,short-term
+2015,conflict resolution,226,conflict-oriented,medium-term
+2015,conflict transformation,280,conflict-oriented,long-term
+2015,peacebuilding,435,peace-oriented,long-term
+2015,peacekeeping,176,peace-oriented,short-term
+2015,peacemaking,143,peace-oriented,medium-term
+2016,conflict prevention,271,conflict-oriented,short-term
+2016,conflict resolution,286,conflict-oriented,medium-term
+2016,conflict transformation,350,conflict-oriented,long-term
+2016,peacebuilding,465,peace-oriented,long-term
+2016,peacekeeping,178,peace-oriented,short-term
+2016,peacemaking,156,peace-oriented,medium-term
+2017,conflict prevention,276,conflict-oriented,short-term
+2017,conflict resolution,259,conflict-oriented,medium-term
+2017,conflict transformation,321,conflict-oriented,long-term
+2017,peacebuilding,501,peace-oriented,long-term
+2017,peacekeeping,182,peace-oriented,short-term
+2017,peacemaking,161,peace-oriented,medium-term
+2018,conflict prevention,148,conflict-oriented,short-term
+2018,conflict resolution,83,conflict-oriented,medium-term
+2018,conflict transformation,124,conflict-oriented,long-term
+2018,peacebuilding,151,peace-oriented,long-term
+2018,peacekeeping,96,peace-oriented,short-term
+2018,peacemaking,41,peace-oriented,medium-term

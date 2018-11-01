@@ -1,0 +1,133 @@
+search_name,year,readers,mentions,citations,views,total_exposure,pub_count
+conflict prevention,1946,0,0,1,3,4,1
+conflict prevention,1985,0,0,2,5,7,1
+conflict prevention,1990,7,0,10,1,18,1
+conflict prevention,1993,42,0,62,198,302,2
+conflict prevention,1999,8,0,6,168,182,1
+conflict prevention,2001,2,1,0,128,131,1
+conflict prevention,2002,179,0,128,3576,3883,3
+conflict prevention,2003,7,0,7,35,49,2
+conflict prevention,2004,251,0,267,1300,1818,3
+conflict prevention,2005,12,0,4,452,468,2
+conflict prevention,2006,30,0,14,405,449,1
+conflict prevention,2007,55,0,37,2166,2258,3
+conflict prevention,2008,36,8,12,1304,1360,2
+conflict prevention,2009,13,0,33,100,146,1
+conflict prevention,2010,760,21,499,33254,34534,22
+conflict prevention,2011,4069,54,1040,132090,137253,72
+conflict prevention,2012,4409,100,1777,186218,192504,97
+conflict prevention,2013,4929,128,1663,179236,185956,96
+conflict prevention,2014,5211,127,1550,259506,266394,118
+conflict prevention,2015,4783,271,1273,244772,251099,133
+conflict prevention,2016,3238,239,1282,206077,210836,149
+conflict prevention,2017,2126,187,1857,136473,140643,158
+conflict prevention,2018,303,45,722,20623,21693,77
+conflict prevention,NA,20037,336,13642,509646,543661,283
+conflict resolution,1973,52,2,20,2,76,1
+conflict resolution,1975,6,0,35,10,51,1
+conflict resolution,1980,3,0,6,17,26,1
+conflict resolution,1982,0,0,2,1,3,1
+conflict resolution,1986,29,0,14,20,63,1
+conflict resolution,1989,11,2,7,171,191,1
+conflict resolution,1992,3,0,2,8,13,1
+conflict resolution,1993,40,0,39,197,276,3
+conflict resolution,1994,28,0,43,105,176,1
+conflict resolution,1999,8,0,6,168,182,1
+conflict resolution,2000,14,1,5,13,33,1
+conflict resolution,2002,35,0,20,762,817,1
+conflict resolution,2004,284,2,282,1678,2246,2
+conflict resolution,2005,38,0,5,473,516,1
+conflict resolution,2007,40,0,20,655,715,1
+conflict resolution,2008,108,11,39,1817,1975,3
+conflict resolution,2009,6,0,0,795,801,1
+conflict resolution,2010,931,14,459,34758,36162,15
+conflict resolution,2011,2402,54,735,111236,114427,45
+conflict resolution,2012,3169,81,1186,178424,182860,70
+conflict resolution,2013,4601,215,1575,201657,208048,85
+conflict resolution,2014,3421,154,1008,221633,226216,83
+conflict resolution,2015,3953,224,972,203212,208361,90
+conflict resolution,2016,3769,327,1252,242535,247883,154
+conflict resolution,2017,1641,146,1611,128037,131435,123
+conflict resolution,2018,285,35,383,16973,17676,39
+conflict resolution,NA,16894,246,9698,503736,530574,198
+conflict transformation,1973,52,2,20,2,76,1
+conflict transformation,1990,19,0,25,1,45,1
+conflict transformation,1991,67,1,137,315,520,1
+conflict transformation,1993,24,0,13,136,173,1
+conflict transformation,1995,22,0,6,33,61,1
+conflict transformation,1996,1,0,1,10,12,1
+conflict transformation,2002,4,0,5,55,64,1
+conflict transformation,2003,0,6,2,452,460,1
+conflict transformation,2004,228,0,242,908,1378,1
+conflict transformation,2005,47,0,56,1265,1368,2
+conflict transformation,2006,58,0,29,598,685,2
+conflict transformation,2007,40,0,20,655,715,1
+conflict transformation,2009,51,1,15,1841,1908,3
+conflict transformation,2010,598,25,406,43068,44097,14
+conflict transformation,2011,3117,32,811,130391,134351,46
+conflict transformation,2012,2733,88,1057,148819,152697,65
+conflict transformation,2013,3687,131,1544,172810,178172,90
+conflict transformation,2014,4381,142,1310,239764,245597,110
+conflict transformation,2015,3976,197,1100,226897,232170,115
+conflict transformation,2016,3428,218,1380,216958,221984,168
+conflict transformation,2017,2016,176,1886,137929,142007,150
+conflict transformation,2018,331,40,480,20677,21528,63
+conflict transformation,NA,15118,231,7713,377239,400301,193
+peacekeeping,1992,0,0,8,41,49,1
+peacekeeping,1993,0,0,6,0,6,1
+peacekeeping,1996,1,0,0,15,16,1
+peacekeeping,1999,5,1,0,359,365,1
+peacekeeping,2000,52,0,34,2970,3056,2
+peacekeeping,2004,2,1,3,148,154,2
+peacekeeping,2005,36,0,26,5562,5624,2
+peacekeeping,2006,28,2,14,689,733,2
+peacekeeping,2007,15,0,0,1097,1112,1
+peacekeeping,2008,58,0,14,778,850,1
+peacekeeping,2010,683,8,252,38660,39603,11
+peacekeeping,2011,1381,68,434,85122,87005,35
+peacekeeping,2012,2326,90,1019,119784,123219,69
+peacekeeping,2013,2141,102,747,122559,125549,58
+peacekeeping,2014,3713,135,1304,179620,184772,91
+peacekeeping,2015,2371,127,1245,262846,266589,110
+peacekeeping,2016,2247,192,1706,195022,199167,120
+peacekeeping,2017,1538,131,2440,149103,153212,127
+peacekeeping,2018,176,18,862,20378,21434,68
+peacekeeping,NA,12188,309,4525,478021,495043,199
+peacemaking,1991,15,1,0,19,35,1
+peacemaking,1992,0,0,8,41,49,1
+peacemaking,1993,0,0,6,0,6,1
+peacemaking,1997,5,0,18,85,108,1
+peacemaking,2000,48,0,30,2666,2744,1
+peacemaking,2004,0,0,0,2,2,1
+peacemaking,2005,106,1,31,6250,6388,2
+peacemaking,2006,28,2,14,689,733,2
+peacemaking,2007,55,0,20,1752,1827,2
+peacemaking,2008,436,6,20,4180,4642,2
+peacemaking,2009,29,0,19,1577,1625,3
+peacemaking,2010,741,16,293,34415,35465,11
+peacemaking,2011,1649,41,482,82405,84577,29
+peacemaking,2012,1911,90,672,90577,93250,49
+peacemaking,2013,3207,122,1178,155532,160039,68
+peacemaking,2014,2632,82,880,113628,117222,52
+peacemaking,2015,1634,55,493,68307,70489,56
+peacemaking,2016,1081,86,613,83634,85414,74
+peacemaking,2017,865,71,537,75879,77352,76
+peacemaking,2018,160,16,203,10125,10504,26
+peacemaking,NA,11849,254,4958,512342,529403,203
+peacebuilding,2000,4,0,4,304,312,1
+peacebuilding,2002,173,0,111,3500,3784,2
+peacebuilding,2005,69,0,31,6230,6330,3
+peacebuilding,2006,30,0,23,780,833,2
+peacebuilding,2007,75,2,22,1894,1993,3
+peacebuilding,2008,478,17,41,4920,5456,3
+peacebuilding,2009,14,0,11,921,946,3
+peacebuilding,2010,568,9,230,20436,21243,9
+peacebuilding,2011,3564,74,1111,163319,168068,50
+peacebuilding,2012,3772,131,1474,197603,202980,84
+peacebuilding,2013,8677,246,3335,379031,391289,153
+peacebuilding,2014,7503,229,2494,377094,387320,150
+peacebuilding,2015,8294,334,3009,552430,564067,247
+peacebuilding,2016,5898,492,3401,445003,454794,295
+peacebuilding,2017,3992,371,4296,295446,304105,331
+peacebuilding,2018,619,36,1200,37318,39173,96
+peacebuilding,NA,18158,321,7359,773406,799244,154
