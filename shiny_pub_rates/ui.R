@@ -1,6 +1,7 @@
 library(shiny)
 library(readr)
 library(ggplot2)
+library(dplyr)
 
 pub_count_year_search = suppressMessages(suppressWarnings(read_csv("../data/pub_count_year_search.csv")))
 
