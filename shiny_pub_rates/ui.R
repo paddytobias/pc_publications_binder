@@ -42,7 +42,6 @@ ui <- fluidPage(
                  helpText("The boxplot highlighted green is the domain of literature which had the highest median value for your query."),
                  helpText("If there is a signficant difference in the literature domains, you will see these listed below."),
                  plotlyOutput("boxplot"), 
-                 textOutput("boxplot_text"), 
                  tags$br(),
                  textOutput("aov"),
                  tags$br(),
