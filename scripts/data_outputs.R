@@ -46,7 +46,7 @@ a = anova(aov)
 a$`Pr(>F)`[1]
 
 
-TukeyHSD(aov(pub_count_year_search$n ~ pub_count_year_search$search_name),which = 'pub_count_year_search$search_name', conf.level=0.95 )
+tukey = TukeyHSD(aov(pub_count_year_search$n ~ pub_count_year_search$search_name),which = 'pub_count_year_search$search_name', conf.level=0.95 )
 
 # with PB removed
 # pub_count_year_search_no_pb = pub_count_year_search %>% 
