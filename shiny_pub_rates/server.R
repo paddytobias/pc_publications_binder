@@ -86,23 +86,23 @@ server <- function(input, output) {
     
   })
   
-  output$aov = renderText({
-    
-    pub_count_bp_data = pub_count_year_search %>% 
-      filter(search_name %in% input$search_name) %>% 
-      filter(year >= input$years[1] & year <= input$years[2]) %>% 
-      mutate(is.peacebuilding = ifelse(search_name==as.character(max_median_pub_count$search_name), TRUE, FALSE))
-    
-    aov = lm(pub_count_bp_data$n ~ pub_count_bp_data$search_name, data = pub_count_bp_data)
-    a = anova(aov)
-    sig_diff = a$`Pr(>F)`[1]
-  
-
-    if(sig_diff < 0.05){
-      paste("The following literature domains are statistically different:")
-    }
-
-  })
+  # output$aov = renderText({
+  #   
+  #   pub_count_bp_data = pub_count_year_search %>% 
+  #     filter(search_name %in% input$search_name) %>% 
+  #     filter(year >= input$years[1] & year <= input$years[2]) %>% 
+  #     mutate(is.peacebuilding = ifelse(search_name==as.character(max_median_pub_count$search_name), TRUE, FALSE))
+  #   
+  #   aov = lm(pub_count_bp_data$n ~ pub_count_bp_data$search_name, data = pub_count_bp_data)
+  #   a = anova(aov)
+  #   sig_diff = a$`Pr(>F)`[1]
+  # 
+  # 
+  #   #if(sig_diff < 0.05){
+  #     paste("The following literature domains are statistically different:")
+  #   #}
+  # 
+  # })
   
   output$sig_diff = renderTable({
     pub_count_bp_data = pub_count_year_search %>% 
@@ -113,7 +113,7 @@ server <- function(input, output) {
     tukey = TukeyHSD(aov(pub_count_bp_data$n ~ pub_count_bp_data$search_name),which = 'pub_count_bp_data$search_name', conf.level=0.95 )
     p_val = tukey$`pub_count_bp_data$search_name`[,'p adj']
     p_val = data.frame(p_val) 
-    sig_p_val = p_val%>% 
+    sig_p_val = p_val %>% 
       rownames_to_column() %>% 
       filter(p_val<0.05) %>% 
       rename("Domains with significant differences (p<0.05)"="rowname", "P value"="p_val")

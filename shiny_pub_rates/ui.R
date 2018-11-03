@@ -41,11 +41,11 @@ ui <- fluidPage(
         tabPanel("Boxplot domain comparison", 
                  helpText("The boxplot highlighted green is the domain of literature which had the highest median value for your query."),
                  helpText("If there is a signficant difference in the literature domains, you will see these listed below."),
+                 tableOutput("sig_diff"),
                  plotlyOutput("boxplot"), 
                  tags$br(),
-                 textOutput("aov"),
-                 tags$br(),
-                 tableOutput("sig_diff")
+                 tags$br()
+                 
                  )
         )
       )
