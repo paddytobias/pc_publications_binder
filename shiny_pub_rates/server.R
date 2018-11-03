@@ -118,9 +118,9 @@ server <- function(input, output) {
       filter(p_val<0.05) %>% 
       rename("Domains with significant differences (p<0.05)"="rowname", "P value"="p_val")
     
-    if(nrow(sig_p_val)>=1){
+    #if(nrow(sig_p_val)>=1){
       sig_p_val
-    }
+    #}
     
   })
 }
