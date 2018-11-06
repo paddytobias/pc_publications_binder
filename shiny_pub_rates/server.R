@@ -4,6 +4,9 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 library(stats)
+library(tidyr)
+library(dplyr)
+library(tibble)
 
 pub_count_year_search = suppressMessages(suppressWarnings(read_csv("../data/pub_count_year_search.csv")))
 
@@ -86,25 +89,43 @@ server <- function(input, output) {
     
   })
   
-  # output$aov = renderText({
-  #   
-  #   pub_count_bp_data = pub_count_year_search %>% 
-  #     filter(search_name %in% input$search_name) %>% 
-  #     filter(year >= input$years[1] & year <= input$years[2]) %>% 
-  #     mutate(is.peacebuilding = ifelse(search_name==as.character(max_median_pub_count$search_name), TRUE, FALSE))
-  #   
-  #   aov = lm(pub_count_bp_data$n ~ pub_count_bp_data$search_name, data = pub_count_bp_data)
-  #   a = anova(aov)
-  #   sig_diff = a$`Pr(>F)`[1]
-  # 
-  # 
-  #   #if(sig_diff < 0.05){
-  #     paste("The following literature domains are statistically different:")
-  #   #}
-  # 
-  # })
+  output$aov = renderText({
+
+    max_median_pub_count = pub_count_year_search %>% 
+      filter(year >= input$years[1] & year <= input$years[2]) %>% 
+      filter(search_name %in% input$search_name) %>% 
+      group_by(search_name) %>% 
+      summarise(median = median(n)) %>% 
+      ungroup() %>% 
+      filter(median == max(median)) %>% 
+      select(search_name)
+    
+    pub_count_bp_data = pub_count_year_search %>%
+      filter(search_name %in% input$search_name) %>%
+      filter(year >= input$years[1] & year <= input$years[2]) %>%
+      mutate(is.peacebuilding = ifelse(search_name==as.character(max_median_pub_count$search_name), TRUE, FALSE))
+
+    aov = lm(pub_count_bp_data$n ~ pub_count_bp_data$search_name, data = pub_count_bp_data)
+    a = anova(aov)
+    sig_diff = a$`Pr(>F)`[1]
+
+
+    if(sig_diff < 0.05){
+      paste("The following literature domains are statistically different:")
+    }
+
+  })
   
   output$sig_diff = renderTable({
+    max_median_pub_count = pub_count_year_search %>% 
+      filter(year >= input$years[1] & year <= input$years[2]) %>% 
+      filter(search_name %in% input$search_name) %>% 
+      group_by(search_name) %>% 
+      summarise(median = median(n)) %>% 
+      ungroup() %>% 
+      filter(median == max(median)) %>% 
+      select(search_name)
+    
     pub_count_bp_data = pub_count_year_search %>% 
       filter(search_name %in% input$search_name) %>% 
       filter(year >= input$years[1] & year <= input$years[2]) %>% 

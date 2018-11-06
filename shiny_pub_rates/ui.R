@@ -4,6 +4,9 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 library(stats)
+library(tidyr)
+library(dplyr)
+library(tibble)
 
 pub_count_year_search = suppressMessages(suppressWarnings(read_csv("../data/pub_count_year_search.csv")))
 
@@ -41,9 +44,10 @@ ui <- fluidPage(
         tabPanel("Boxplot domain comparison", 
                  helpText("The boxplot highlighted green is the domain of literature which had the highest median value for your query."),
                  helpText("If there is a signficant difference in the literature domains, you will see these listed below."),
-                 tableOutput("sig_diff"),
-                 plotlyOutput("boxplot"), 
+                 plotlyOutput("boxplot"),
+                 textOutput("aov"),
                  tags$br(),
+                 tableOutput("sig_diff"),
                  tags$br()
                  
                  )
